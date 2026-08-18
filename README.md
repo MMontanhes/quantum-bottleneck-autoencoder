@@ -56,7 +56,7 @@ Side-by-side benchmark comparing a 100% Classical Autoencoder vs. our Quantum Hy
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<seu-usuario>/quantum-bottleneck-autoencoder.git
+git clone https://github.com/MMontanhes/quantum-bottleneck-autoencoder.git
 cd quantum-bottleneck-autoencoder
 ```
 
